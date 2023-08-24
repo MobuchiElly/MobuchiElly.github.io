@@ -1,0 +1,3 @@
+This file was a practice project for me in sightong the functionalities of javascript in the DOM.
+Created a custom HTML element generator function. Function creates element, element attribute, attribute value, and element text simultaneously.
+The main aspect of the project is the STOP WATCH experimenting with functions like setInterval and applying the temp variable method popularly used in sorting algorithms.
