@@ -69,31 +69,3 @@ resetBtn.addEventListener('click', () => {
     min.textContent = `${strM}`;
     hour.textContent = `${strH}`;
 });
-
-
-
-
-
-
-
-
-
-
-
-
-/* Read up the following and practice
-e.stopPropagation()
-matches('li')
-e.target.getAttribute
-
-*/
-
-
-
-
-
-
-
-
-
-
